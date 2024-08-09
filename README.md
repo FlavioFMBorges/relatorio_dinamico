@@ -1,10 +1,10 @@
 # Relatório Dinamico 
 Relatório Financeiro com Foco na Experiência do Usuário com botões de navegação.  
-Neste repositório há também o arquivo .pbix e as imagens usadas
+Neste repositório há também o arquivo .pbix e as imagens usadas.
 
 ![Video](https://github.com/FlavioFMBorges/relatorio_dinamico/blob/main/gif%20-%20botoes%20acoes.gif)  
 
-Nas duas imagens abaixo vemos no relatório de vendas os gráficos que podem ser acessados usando o botão control do teclado, por segmento ou produto
+Nas duas imagens abaixo vemos no relatório de vendas os gráficos que podem ser acessados usando o botão control do teclado, por segmento ou produto.
 ![Vendas por Produto](https://github.com/FlavioFMBorges/relatorio_dinamico/blob/main/imagens/Sales_1.png)  
 
 ![Vendas por Segmaento](https://github.com/FlavioFMBorges/relatorio_dinamico/blob/main/imagens/Sales_2.png)  
