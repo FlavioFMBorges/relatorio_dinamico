@@ -1,6 +1,7 @@
 # Relatório Dinamico 
 Relatório Financeiro com Foco na Experiência do Usuário com botões de navegação.  
 Neste repositório há também o arquivo .pbix e as imagens usadas.
+Para uma explicação mais detalhada ver no link do YouTube: [Video Relatório Dinâmico](https://youtu.be/oawC9Uo2W6k)
 
 ![Video](https://github.com/FlavioFMBorges/relatorio_dinamico/blob/main/gif%20-%20botoes%20acoes.gif)  
 
